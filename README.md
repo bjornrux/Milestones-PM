@@ -9,7 +9,7 @@ Milestones PM is published by Force.com Labs and is Copyright (c) 2011 Salesforc
 
 The app is available via the BSD license.  Contributions welcome. Contact labs at salesforce dot com or submit a pull request for details.  Note: significant contributions may require a [Contributor License Agreement](http://blogs.developerforce.com/labs/files/2011/08/Salesforce_OpenSource_Contributor_Agreement_20110610.pdf).  Don't worry: it's easy and painless.
 
-Version History: https://github.com/ForceDotComLabs/Milestones-PM/wiki/Version-History
+Version History : https://github.com/ForceDotComLabs/Milestones-PM/wiki/Version-History
 
 Meta
 ----
